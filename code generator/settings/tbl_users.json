@@ -1,0 +1,1 @@
+{"class": "Users", "special": [{"params": ["username"], "name": "getByName", "onlyRow": "1"}, {"params": ["useremail"], "name": "getByEmail", "onlyRow": "1"}, {"params": ["username", "useremail"], "name": "getByNameEmail", "onlyRow": "1"}]}
